@@ -2,12 +2,12 @@
 
 Node JS CRUD demo using ES6
 
-- Install
+* Install
 
 NodeJS
 MongoDB
 
-- Setup
+* Setup
   npm install
 
   mongo DB
@@ -18,8 +18,8 @@ MongoDB
   - Open new terminal enter below
     mongo bookAPI < model/bookJson.js
 
-- To run project :-
+* To run project :-
   npm run prod
 
-- Browser
+* Browser
   http://localhost:3000/books
